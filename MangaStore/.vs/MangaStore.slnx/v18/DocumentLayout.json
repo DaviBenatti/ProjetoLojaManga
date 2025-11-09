@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\MangaStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\formestoque.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:formestoque.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\formestoque.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:formestoque.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|c:\\git\\mangastore\\uchistoricovendas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:uchistoricovendas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|c:\\git\\mangastore\\ucestoque.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:ucestoque.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\ucestoque.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:ucestoque.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|c:\\git\\mangastore\\uchistoricovendas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:uchistoricovendas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\ucrealizarvenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:ucrealizarvenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\ucestoquebaixo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:ucestoquebaixo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\ucrealizarvenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:ucrealizarvenda.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\ucfornecedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:ucfornecedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\ucestoquebaixo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:ucestoquebaixo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\ucfornecedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:ucfornecedores.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\ucadicionarfornecedor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:ucadicionarfornecedor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\ucadicionarfornecedor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:ucadicionarfornecedor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\ucadicionarmanga.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:ucadicionarmanga.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\ucadicionarmanga.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:ucadicionarmanga.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\formestoque.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:formestoque.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|C:\\Git\\MangaStore\\formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F2E83E6D-62DC-482A-98E4-373974EB3206}|MangaStore.vbproj|solutionrelative:formlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ucHistoricoVendas.vb",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucHistoricoVendas.vb",
+              "RelativeDocumentMoniker": "ucHistoricoVendas.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucHistoricoVendas.vb",
+              "RelativeToolTip": "ucHistoricoVendas.vb",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-09T19:42:10.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ucHistoricoVendas.vb [Design]",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucHistoricoVendas.vb",
+              "RelativeDocumentMoniker": "ucHistoricoVendas.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucHistoricoVendas.vb [Design]",
+              "RelativeToolTip": "ucHistoricoVendas.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-09T19:33:42.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucEstoque.vb [Design]",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucEstoque.vb",
+              "RelativeDocumentMoniker": "ucEstoque.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucEstoque.vb [Design]",
+              "RelativeToolTip": "ucEstoque.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-01T18:57:13.574Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ucRealizarVenda.vb [Design]",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucRealizarVenda.vb",
+              "RelativeDocumentMoniker": "ucRealizarVenda.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucRealizarVenda.vb [Design]",
+              "RelativeToolTip": "ucRealizarVenda.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T17:37:31.859Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormEstoque.vb [Design]",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\FormEstoque.vb",
+              "RelativeDocumentMoniker": "FormEstoque.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\FormEstoque.vb [Design]",
+              "RelativeToolTip": "FormEstoque.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-01T19:07:53.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormEstoque.vb",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\FormEstoque.vb",
+              "RelativeDocumentMoniker": "FormEstoque.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\FormEstoque.vb",
+              "RelativeToolTip": "FormEstoque.vb",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwHoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-01T19:22:05.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ucEstoque.vb",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucEstoque.vb",
+              "RelativeDocumentMoniker": "ucEstoque.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucEstoque.vb",
+              "RelativeToolTip": "ucEstoque.vb",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwHIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-01T19:13:44.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ucRealizarVenda.vb",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucRealizarVenda.vb",
+              "RelativeDocumentMoniker": "ucRealizarVenda.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucRealizarVenda.vb",
+              "RelativeToolTip": "ucRealizarVenda.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T18:04:37.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ucFornecedores.vb [Design]",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucFornecedores.vb",
+              "RelativeDocumentMoniker": "ucFornecedores.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucFornecedores.vb [Design]",
+              "RelativeToolTip": "ucFornecedores.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T00:51:21.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucEstoqueBaixo.vb",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucEstoqueBaixo.vb",
+              "RelativeDocumentMoniker": "ucEstoqueBaixo.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucEstoqueBaixo.vb",
+              "RelativeToolTip": "ucEstoqueBaixo.vb",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAkwHoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T02:30:47.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ucEstoqueBaixo.vb [Design]",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucEstoqueBaixo.vb",
+              "RelativeDocumentMoniker": "ucEstoqueBaixo.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucEstoqueBaixo.vb [Design]",
+              "RelativeToolTip": "ucEstoqueBaixo.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T02:26:40.844Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ucFornecedores.vb",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucFornecedores.vb",
+              "RelativeDocumentMoniker": "ucFornecedores.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucFornecedores.vb",
+              "RelativeToolTip": "ucFornecedores.vb",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwE4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T02:38:24.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ucAdicionarFornecedor.vb",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucAdicionarFornecedor.vb",
+              "RelativeDocumentMoniker": "ucAdicionarFornecedor.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucAdicionarFornecedor.vb",
+              "RelativeToolTip": "ucAdicionarFornecedor.vb",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowCUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T01:55:38.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ucAdicionarFornecedor.vb [Design]",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucAdicionarFornecedor.vb",
+              "RelativeDocumentMoniker": "ucAdicionarFornecedor.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucAdicionarFornecedor.vb [Design]",
+              "RelativeToolTip": "ucAdicionarFornecedor.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T00:50:53.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ucAdicionarManga.vb [Design]",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucAdicionarManga.vb",
+              "RelativeDocumentMoniker": "ucAdicionarManga.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucAdicionarManga.vb [Design]",
+              "RelativeToolTip": "ucAdicionarManga.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-01T20:42:16.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormLogin.vb [Design]",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\FormLogin.vb",
+              "RelativeDocumentMoniker": "FormLogin.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\FormLogin.vb [Design]",
+              "RelativeToolTip": "FormLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-28T20:12:47.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Git\\MangaStore\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-02T18:51:42.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ucAdicionarManga.vb",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\ucAdicionarManga.vb",
+              "RelativeDocumentMoniker": "ucAdicionarManga.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\ucAdicionarManga.vb",
+              "RelativeToolTip": "ucAdicionarManga.vb",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAFoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-01T20:43:17.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormEstoque.Designer.vb",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\FormEstoque.Designer.vb",
+              "RelativeDocumentMoniker": "FormEstoque.Designer.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\FormEstoque.Designer.vb",
+              "RelativeToolTip": "FormEstoque.Designer.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-02T02:01:35.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormLogin.vb",
+              "DocumentMoniker": "C:\\Git\\MangaStore\\FormLogin.vb",
+              "RelativeDocumentMoniker": "FormLogin.vb",
+              "ToolTip": "C:\\Git\\MangaStore\\FormLogin.vb",
+              "RelativeToolTip": "FormLogin.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-28T20:23:45.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
